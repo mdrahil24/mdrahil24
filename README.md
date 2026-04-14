@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am currently a Undergraduate  Computer Science Student at JSS Science and Technology University , Mysore
+I am currently a Undergraduate Computer Science Student at JSS Science and Technology University , Mysore
 
 
 ## 🌐 Socials:
